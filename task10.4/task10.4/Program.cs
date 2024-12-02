@@ -44,7 +44,6 @@ namespace task10._4
                     count++;
                 }
             }
-
             return count;
         }
     }
